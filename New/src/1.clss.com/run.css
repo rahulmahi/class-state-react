@@ -1,0 +1,29 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+    width: 550px;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.butn img{
+    height: 250px;
+    width: 300px;
+    background-size: cover;
+}
+.load img{
+    height: 20px;
+    width: 30px;
+}
+.qty{
+    display: flex;
+}
+.butn button{
+    height: 40px;
+    width: 120px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}

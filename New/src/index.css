@@ -1,0 +1,97 @@
+.plus{
+  color:#ffe500;
+}
+.flip{
+  /* height: 30px; */
+  width: 75px;
+  background-size: cover;
+}
+.plus{
+  width: 10px;
+}
+.main{
+  background-color: blue;
+  /* display: flex;
+  justify-content: space-around;  */
+}
+.input-box{
+  padding: 5px;
+  width: 300px;
+  position: relative;
+}
+.search i {
+  position: absolute;
+  top: 38px;
+  left: 550px;
+  color: blue;
+}
+.space img{
+  margin-left: 40px;
+  margin-top: 20px;
+  height: 100px;
+  width: 100px;
+}
+.imgs{
+  width: 80px;
+  height: 50px;
+  background-size: cover;
+ }
+ .icon{
+  color: white;
+ }
+.input-box{
+  position: relative;
+}
+.r{
+  display: inline-block;
+  height: 20px;
+  width: 30px;
+  text-align: center;
+  border: 1px solid;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  background-color: gray;
+  margin-bottom: 10px;
+}
+.icon i{
+  position: absolute;
+  right: 270px;
+  margin-top: 6px;
+}
+.second input{
+text-align: center;
+}
+.flx{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(18, 18, 224);
+}
+.input{
+  width: 200px;
+  height: 30px;
+  background-color: rgb(18, 18, 224);
+}
+.second{
+  margin-top: 10px;
+  margin: 10px 10px;
+}
+.local{
+  height: 470px;
+  width: 400px;
+  background-color: whitesmoke;
+  transition: all .2s ease-in-out;
+}
+.local:hover
+{
+  transform: scale(1.1);
+}
+.icons{
+  display: flex;
+  justify-content: space-between;
+}
+.pro{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
